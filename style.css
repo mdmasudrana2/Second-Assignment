@@ -1,0 +1,50 @@
+.main-container{
+    padding-right: 70px;
+    padding-left:70px;
+}
+.container{
+    display:flex;
+    background-color:black; 
+    border-radius: 20px;
+}
+.blog-info{
+    color: white;
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.buttom-1{
+    background-color: red;
+}
+.background{
+    margin-top: 100px;
+    background-color: black;
+    height: 200px;
+    width: 200px;
+
+    /* .....blog information.... */
+
+}
+.buttom-2{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#class-1{
+    width: 150px;
+}
+#class-2{
+    width: 150px;
+    background-color: red;
+}
+.blog-info-2{
+    border: solid whitesmoke;
+    width: 312px;
+    border-radius: 10px;
+}
+.blog-douration{
+    display: flex;
+}
+.blog-image{
+    display: flex;
+    margin-left: 20px;
+}
